@@ -7,6 +7,9 @@ import streamlit as st
 import sys
 from pathlib import Path
 
+
+
+
 # Add parent directory to path for imports
 sys.path.append(str(Path(__file__).parent.parent.parent))
 
@@ -85,9 +88,31 @@ st.markdown("""
 @st.cache_resource
 def load_rag_system():
     with st.spinner("🔄 Loading AI system (10–15s)..."):
+
+        # -----------------------------
+        # AUTO BUILD VECTOR DB (FIRST RUN ONLY)
+        # -----------------------------
+        vector_path = Path("data/vector_db/chroma_db")
+
+        if not vector_path.exists():
+            st.info("⚙️ First run detected. Building vector database (30–40s)...")
+
+            from src.data_prep.vector_builder import VectorDBBuilder
+
+            builder = VectorDBBuilder("data/processed/documents.json")
+            builder.build()
+
+            st.success("✅ Vector DB built successfully!")
+
+        # -----------------------------
+        # LOAD RAG SYSTEM
+        # -----------------------------
         rag = JaisalmerRAG()
         rag.initialize()
+
     return rag
+
+   
 
 
 # --------------------------------------------------
