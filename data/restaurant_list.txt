@@ -1,0 +1,50 @@
+Jaisalmer Restaurants List
+==========================
+
+Format: Name | Cuisine Type | Price Range (optional)
+
+Trio Restaurant | Rajasthani, North Indian | ₹₹
+Pleasant Haveli Rooftop Restaurant | Multi-cuisine | ₹₹
+1st Gate Home Fusion | Italian, Indian | ₹₹₹
+The Turban Restaurant | Rajasthani | ₹₹
+Saffron Restaurant & Cafe | Vegetarian, North Indian | ₹₹
+Free Tibet Restaurant | Tibetan, Chinese | ₹₹
+KB Cafe | Cafe, Continental | ₹₹
+Desert Boy's Dhani | Rajasthani | ₹₹
+Natraj Dining Hall | North Indian | ₹
+Milan Restaurant | Multi-cuisine | ₹₹
+Jaisal Italy | Italian | ₹₹₹
+Gaji's Restaurant | Rajasthani | ₹₹
+The Jaisalmer Haveli Restaurant | Indian | ₹₹₹
+Little Tibet Restaurant | Tibetan | ₹₹
+Chandan Shree Restaurant | Vegetarian | ₹
+
+1156 AD | Fine Dining, Rajasthani | ₹₹₹
+Storii by ITC Jaisalmer | Fine Dining, Multi-cuisine | ₹₹₹
+Mugs for Buds Cafe | Cafe | ₹₹
+Shree Krishna Restaurant | North Indian | ₹
+Jagdamba Restaurant | North Indian | ₹
+Relish by Megha | Multi-cuisine | ₹₹
+Sitaram Restaurant | North Indian | ₹
+Shree Bikaner Restaurant | Rajasthani, Snacks | ₹
+Ridhi Sidhi Restaurant | North Indian | ₹
+Zayit Fine Dine Restaurant | Mediterranean, Multi-cuisine | ₹₹₹
+Sky Treat Restaurant | Rooftop, Multi-cuisine | ₹₹
+Retro Kaka's Cafe | Cafe | ₹₹
+Hotel Milan Restaurant | Multi-cuisine | ₹₹
+Kanishka Restaurant | North Indian | ₹₹
+Dosaka | South Indian | ₹
+Le Lio's Pizza | Italian, Pizza | ₹₹
+Natraj Restaurant | North Indian | ₹
+Jodhana Restaurant | Rajasthani | ₹₹
+Jeeman Restaurant | North Indian | ₹
+Green Park Restaurant | Multi-cuisine | ₹₹
+Chef Crown Restaurant | Multi-cuisine | ₹₹
+Fredy Foods | Fast Food | ₹
+Kitchen Secrets | Multi-cuisine | ₹₹
+3D Cafe and Restaurant | Cafe, Multi-cuisine | ₹₹
+Shree Aashapurna Restaurant | Rajasthani, North Indian | ₹₹
+Godavan Restaurant | Rajasthani | ₹₹
+Thakur Ji Restaurant | North Indian | ₹
+Shri Hari Restaurant | North Indian | ₹
+Nilkanth Restaurant | North Indian | ₹

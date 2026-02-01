@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "source": "manual_research",
+    "city": "Jaisalmer",
+    "country": "India",
+    "collection_date": "2025-01-24",
+    "total_restaurants": 3,
+    "total_reviews": 6
+  },
+  "restaurants": [
+    {
+      "id": "rest_001",
+      "name": "Trio Restaurant",
+      "cuisine": ["Rajasthani", "North Indian", "Vegetarian"],
+      "rating": 4.5,
+      "total_reviews": 350,
+      "price_range": "₹₹",
+      "address": "Near Jaisalmer Fort, Fort Road, Jaisalmer, Rajasthan",
+      "phone": "+91-1234567890",
+      "features": ["Rooftop seating", "Fort view", "Vegetarian options"],
+      "reviews": [
+        {
+          "review_id": "rev_001",
+          "text": "Amazing dal baati churma! The authentic Rajasthani flavors were outstanding. Rooftop seating offers beautiful fort views, especially during sunset. Service was prompt and friendly. Highly recommended for traditional cuisine.",
+          "rating": 5,
+          "author": "Vikas S.",
+          "date": "2025-01-20",
+          "helpful_count": 12,
+          "verified": true
+        },
+        {
+          "review_id": "rev_002",
+          "text": "Good food but slightly overpriced for the portion sizes. The fort view is definitely the highlight. Dal baati was tasty but the churma was a bit too sweet for my taste. Overall decent experience.",
+          "rating": 4,
+          "author": "Priya M.",
+          "date": "2025-01-15",
+          "helpful_count": 5,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "rest_002",
+      "name": "Jaisal Italy",
+      "cuisine": ["Italian", "Pizza", "Vegetarian"],
+      "rating": 4.3,
+      "total_reviews": 180,
+      "price_range": "₹₹₹",
+      "address": "Gandhi Chowk, Jaisalmer, Rajasthan",
+      "phone": "+91-9876543210",
+      "features": ["Wood-fired pizza", "Italian cuisine", "Outdoor seating"],
+      "reviews": [
+        {
+          "review_id": "rev_003",
+          "text": "Best pizza in Jaisalmer! The wood-fired oven makes all the difference. Tried the margherita and mushroom pizza - both were excellent. Great vegetarian options. A bit pricey but worth it.",
+          "rating": 5,
+          "author": "Rahul K.",
+          "date": "2025-01-18",
+          "helpful_count": 8,
+          "verified": true
+        },
+        {
+          "review_id": "rev_004",
+          "text": "Decent Italian food in the middle of Rajasthan! Pizza was good, pasta was okay. Service could be faster during peak hours. Nice ambiance though.",
+          "rating": 4,
+          "author": "Sarah L.",
+          "date": "2025-01-12",
+          "helpful_count": 3,
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "rest_003",
+      "name": "Saffron Cafe",
+      "cuisine": ["North Indian", "Vegetarian", "Cafe"],
+      "rating": 4.6,
+      "total_reviews": 220,
+      "price_range": "₹₹",
+      "address": "Near Patwon Ki Haveli, Jaisalmer, Rajasthan",
+      "phone": "+91-5555666677",
+      "features": ["Pure vegetarian", "Budget-friendly", "WiFi available"],
+      "reviews": [
+        {
+          "review_id": "rev_005",
+          "text": "Pure vegetarian paradise! Paneer tikka and dal makhani were absolutely delicious. Very affordable prices and generous portions. The staff is super friendly. Perfect for vegetarians!",
+          "rating": 5,
+          "author": "Amit P.",
+          "date": "2025-01-22",
+          "helpful_count": 15,
+          "verified": true
+        },
+        {
+          "review_id": "rev_006",
+          "text": "Good value for money. Food quality is consistent and tastes homemade. WiFi is helpful for digital nomads. Gets crowded during lunch hours. Overall a reliable choice.",
+          "rating": 4,
+          "author": "Maya T.",
+          "date": "2025-01-10",
+          "helpful_count": 7,
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

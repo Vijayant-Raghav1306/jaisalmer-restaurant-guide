@@ -1,0 +1,1251 @@
+{
+  "metadata": {
+    "source": "combined_all_sources",
+    "collection_date": "2026-02-01",
+    "version": "1.0",
+    "total_restaurants": 46,
+    "total_reviews": 83,
+    "avg_reviews_per_restaurant": 1.8,
+    "avg_rating": 1.46,
+    "source_distribution": {
+      "blog_scraping": 1,
+      "manual_collection": 15,
+      "zomato_dataset": 30
+    }
+  },
+  "restaurants": [
+    {
+      "name": "General",
+      "rating": 0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Recently, I set out to explore Jaisalmer in Rajasthan, and the experience was just how it’s described in travel books and guides. The city looks a stunning gold with sandstone structures, the culture and heritage is rich and the food in Jaisalmer is mouth-wateringly delicious. I was accompanied by some hardcore foodies so needless to say that exploring local food in Jaisalmer was high on our list. And that we did!",
+          "author": "Travel Blogger",
+          "date": "2026-01-29",
+          "source": "https://www.wannabemaven.com/rajasthani-food-in-jaisalmer/?utm_source=chatgpt.com",
+          "source_type": "blog",
+          "rating": 0,
+          "restaurant_name": "General"
+        },
+        {
+          "text": "Rajasthani food is typically spicy. Food in Jaisalmer is influenced by local ingredients at disposal, which means mostly vegetarian fare. But they are not far behind in churning out some amazing Rajasthani non-vegetarian food. Since Jaisalmer is a tourist city, cuisines such as Bengali, Italian and Tibetan are widely available and popular. Here’s some must-dry local cuisine in the city.",
+          "author": "Travel Blogger",
+          "date": "2026-01-29",
+          "source": "https://www.wannabemaven.com/rajasthani-food-in-jaisalmer/?utm_source=chatgpt.com",
+          "source_type": "blog",
+          "rating": 0,
+          "restaurant_name": "General"
+        },
+        {
+          "text": "These are hard wheat-bread balls seasoned with salt and cooked in a tandoor or firewood, and sprinkled with clarified ghee. It is accompanied by a delicious Dal of soaked lentils. Churma is a traditional sweet dish made from a mixture of Wheat flour, Besan (gram flour), Sooji, Sugar, Ghee and Mixed Nuts. A must try if you’re visiting Rajasthan and especially Jaisalmer.",
+          "author": "Travel Blogger",
+          "date": "2026-01-29",
+          "source": "https://www.wannabemaven.com/rajasthani-food-in-jaisalmer/?utm_source=chatgpt.com",
+          "source_type": "blog",
+          "rating": 0,
+          "restaurant_name": "General"
+        },
+        {
+          "text": "A vegetable dish prepared from Ker and Sangari – desert beans and capers, locally found in the desert region of Jaisalmer. Ker is very sour and may need to be stored in salt water for 15 days to lose its sourness before consumption. Ker Sangri is slow cooked using locally available spices and chilly. It tastes great when combined with bajra roti.",
+          "author": "Travel Blogger",
+          "date": "2026-01-29",
+          "source": "https://www.wannabemaven.com/rajasthani-food-in-jaisalmer/?utm_source=chatgpt.com",
+          "source_type": "blog",
+          "rating": 0,
+          "restaurant_name": "General"
+        },
+        {
+          "text": "Safed Maans is milder on the spice quotient. Succulent mutton pieces are cooked in a gravy of yogurt and almond and cashew paste and served with rice or roti. Let’s just say, Safed Maans soothes your palate from consuming the fiery Laal Maans. Both dishes are an absolute must try!",
+          "author": "Travel Blogger",
+          "date": "2026-01-29",
+          "source": "https://www.wannabemaven.com/rajasthani-food-in-jaisalmer/?utm_source=chatgpt.com",
+          "source_type": "blog",
+          "rating": 0,
+          "restaurant_name": "General"
+        },
+        {
+          "text": "Jaisalmer receives a lot of Bengali tourists. In fact, one of the highest numbers of tourist in Jaisalmer are Bengalis. A decent amount of ghetto-like Bengali restaurants and lodges have stemmed to cater to this huge tourist population. Expect to have some lip smacking Bengali food like Aloo Poshto and Sweet Tomato Chutney. The Thali is simple home-style food; but the taste is so good, you won’t believe you’re sitting in Jaisalmer and eating a Bengali thali.",
+          "author": "Travel Blogger",
+          "date": "2026-01-29",
+          "source": "https://www.wannabemaven.com/rajasthani-food-in-jaisalmer/?utm_source=chatgpt.com",
+          "source_type": "blog",
+          "rating": 0,
+          "restaurant_name": "General"
+        },
+        {
+          "text": "Kanchan Shree Ice Cream, popular for their Makhania Lassi, has been recommended by Lonely Planet. Best eaten with a spoon, Makhania Lassi is rich and thick with a creamy texture. We tried it and found its taste similar to shrikhand. The shop’s popularity comes, more so, from its strategic location inside Jaisalmer Fort. The recommendation from Lonely Planet is a bonus.",
+          "author": "Travel Blogger",
+          "date": "2026-01-29",
+          "source": "https://www.wannabemaven.com/rajasthani-food-in-jaisalmer/?utm_source=chatgpt.com",
+          "source_type": "blog",
+          "rating": 0,
+          "restaurant_name": "General"
+        },
+        {
+          "text": "This is a deep fried savory pastry stuffed with spicy onion filling, topped with some sev and accompanied by mint and tamarind chutney. Pyaaz Kachori is popular throughout Rajasthan, but you’ll notice an unusually large number of locals and tourists enjoy this snack from the food carts in Jaisalmer.",
+          "author": "Travel Blogger",
+          "date": "2026-01-29",
+          "source": "https://www.wannabemaven.com/rajasthani-food-in-jaisalmer/?utm_source=chatgpt.com",
+          "source_type": "blog",
+          "rating": 0,
+          "restaurant_name": "General"
+        },
+        {
+          "text": "Bring home their desi ghee Ghotua Ladoos and Panchdhari Ladoos that are absolutely delicious. The owner proudly recommends to avoid refrigeration of these sweets, as they can remain fresh under normal temperature for as long as one month. While you’re at their shop also savour their Mirchi Bhajiya (Chilly Pakoras).",
+          "author": "Travel Blogger",
+          "date": "2026-01-29",
+          "source": "https://www.wannabemaven.com/rajasthani-food-in-jaisalmer/?utm_source=chatgpt.com",
+          "source_type": "blog",
+          "rating": 0,
+          "restaurant_name": "General"
+        }
+      ],
+      "sources": [
+        "blog_scraping"
+      ]
+    },
+    {
+      "name": "Trio Restaurant",
+      "rating": 5.0,
+      "cuisine": [
+        "Rajasthani",
+        "North Indian"
+      ],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "I had a delicious Shabnam curry for lunch yesterday. Plenty of vegetables in a very tasty tomato-based gravy. Great service, awesome views from the restaurant, and overall a very enjoyable experience.",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "2026-01-30",
+          "source": "manual"
+        },
+        {
+          "text": "This long-established restaurant continues to attract both Indian and international visitors. Outdoor seating offers fresh air and pleasant nighttime views of the nearby palace. Inside, the traditional museum felt underwhelming and didn’t add much to the experience—the attendant seemed more focused on smiling at tourists and asking for tips. Overall, the food was fairly good by Jaisalmer standards. The salads were enjoyable, though the chicken tikka was slightly dry and overcooked. The curries, however, were well seasoned and not overly oily.",
+          "rating": 4,
+          "author": "Tourist",
+          "date": "Dec 2025",
+          "source": "manual"
+        },
+        {
+          "text": "The rooftop ambience was nice with views of the fort and palace, but the dining experience did not match the price. The food took quite some time to arrive and the taste was disappointing. The pasta felt overly spicy and adapted to Indian-style gravy, and the Laal Maas was tough and difficult to enjoy. Considering the high cost, the overall quality did not feel worth it.",
+          "rating": 2,
+          "author": "Tourist from cape town",
+          "date": "feb 2024",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "1156 AD",
+      "rating": 4.0,
+      "cuisine": [
+        "Fine Dining",
+        "Rajasthani"
+      ],
+      "price_range": "₹₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "We visited 1156 AD yesterday and were thoroughly impressed. The Dhaniya Khumb Mangodi was a unique and exceptionally flavorful dish. The beetroot kebabs were outstanding, and the bajra roti was a wonderful accompaniment. The atmosphere is peaceful and well-kept, and the service is friendly yet discreet—something that’s not easy to get right. I would wholeheartedly recommend this place to anyone visiting Jaisalmer.",
+          "rating": 5,
+          "author": "Delhi Tourist",
+          "date": "Jan 2026",
+          "source": "manual"
+        },
+        {
+          "text": "We ordered the Junglee Maas and the Handi Soola chicken curry. We were specifically asked about our preferred spice level and chose medium. The Junglee Maas was rich in flavor and very enjoyable, though it leaned slightly on the spicy side. The Handi chicken was decent but unremarkable. The cheese garlic naan, however, was excellent.",
+          "rating": 5,
+          "author": "Tourist",
+          "date": "dec 2025",
+          "source": "manual"
+        },
+        {
+          "text": "Visited this place for lunch in Nov 2025. Tasted Murg Jaisalmere and tandoori tandoori roti and fresh lime soda. Price is reasonable and food is very nice. The place is within a palace compound...so there is a feel good factor. Ample parking space. Worth visiting for succulent food.",
+          "rating": 4,
+          "author": "Gurgaon Tourist",
+          "date": "Nov 2025",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "Jaisal Italy",
+      "rating": 3.7,
+      "cuisine": [
+        "Italian"
+      ],
+      "price_range": "₹₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Location A very unique, hidden gem situated right at the entrance of the Jaisalmer Fort main gate. Exterior The restaurant offers both indoor and outdoor seating, with a lovely view of the fort. It’s a great spot to enjoy a cold drink during the afternoon or dinner at night while taking in the beautiful surroundings. Interior The interiors are well maintained and thoughtfully decorated with artwork and wall hangings. There are two to three different seating styles, allowing guests to choose how they want to enjoy their meal. Food We ordered sandwiches, pasta, and cold coffee. The sandwich dressing was quite distinctive and very flavorful. The pasta was well cooked and delicious, and the cold coffee tasted excellent. Service The service was good, and the staff were humble, courteous, and polite. I highly recommend this place for enjoying a meal along with a fantastic view of the fort.",
+          "rating": 4,
+          "author": "Guju Tourist",
+          "date": "jan 2025",
+          "source": "manual"
+        },
+        {
+          "text": "The decoration is as charming as the boss and if you want to eat Italian, this is the place to go! Excellent lasagna and pizza quite correct. Heat and quality. Congratulations to the entire Jaisal Italy team",
+          "rating": 4,
+          "author": "Tourist",
+          "date": "jan 2025",
+          "source": "manual"
+        },
+        {
+          "text": "Great Indian food! The restaurant is nicely located with a great view of the fort. The Indian food is worth ordering with great vegetarian food. The Italian food is okay, but not the greatest.",
+          "rating": 3,
+          "author": "swiss tourist",
+          "date": "mar 2020",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "Pleasant Haveli Rooftop Restaurant",
+      "rating": 4.8,
+      "cuisine": [
+        "Multi-cuisine"
+      ],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "A group of us stayed at Pleasant Haveli and ended up having most of our meals at the rooftop restaurant, simply because the food, atmosphere, and views were so impressive. Prem, who manages the restaurant, is a wonderful host. All meals are prepared fresh after ordering, which makes it easy to accommodate special requests—for example, I asked for less oil in my food. The menu is quite extensive, and during our four-night stay, several of us were able to try different dishes each evening. I would highly recommend it.",
+          "rating": 5,
+          "author": "American tourit",
+          "date": "dec 2025",
+          "source": "manual"
+        },
+        {
+          "text": "Prem is one of the best Chef. He does the masala curry in local style going very well with chicken, mutton and vegetables as well. All dishes are awesome especially when eating at the restaurant's beautiful view balcony during winter time. So enjoyable dining",
+          "rating": 5,
+          "author": "Thai Tourist",
+          "date": "Nov 2025",
+          "source": "manual"
+        },
+        {
+          "text": "We tried many different restaurants—some were good, others just average—but Pleasant Haveli was by far the standout. The aloo paratha is an excellent choice for breakfast, while the Paneer Tikka Masala is highly recommended for lunch. Enjoy flavorful food prepared by Prem, along with a great view and an overall genuinely pleasant experience.",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "mar 2024",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "1st Gate Home Fusion",
+      "rating": 4.4,
+      "cuisine": [
+        "Italian",
+        "Indian"
+      ],
+      "price_range": "₹₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Great view of the fort with good vibes and excellent food. The malai kofta is particularly good! We spent a few days at the hotel and enjoyed eating dinner at the restaurant or ending our days on the roof with a beer.",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "aug 2025",
+          "source": "manual"
+        },
+        {
+          "text": "A variety of food but after days eating Indian food their Italian fare was great. The Caprese salad was fresh and savory, I had the vest woodfire baked pizza I'd had in a long time. Others order freshly made gnocchi and other Italian fare. It was all delicious. We wanted to stay another night just to come back for mor.",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "apr 2025",
+          "source": "manual"
+        },
+        {
+          "text": "We had a pizza at 1st Gate last night and it was excellent. The pizza is really Italian style, excellent pizza dough, real mozzarella and a large selection of vegetarian toppings. Many thanks to Raja for the excellent service!",
+          "rating": 5,
+          "author": "swiss tourist",
+          "date": "nov 2024",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "The Turban Restaurant",
+      "rating": 4.8,
+      "cuisine": [
+        "Rajasthani"
+      ],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "The butter chicken was incredibly delicious and full of flavor. I’ve been in Jaisalmer for four days, and this was easily the best chicken dish I’ve had. What truly sets it apart is the use of fresh, whole spices, which make a noticeable difference. I wasn’t sure the restaurant would live up to its strong reviews, especially since I’ve had butter chicken many times before. When the server recommended it, I hesitated—but I’m so glad I trusted him and ordered it. The dish was outstanding, and I would definitely eat here again.",
+          "rating": 5,
+          "author": "Brian from america",
+          "date": "oct 2024",
+          "source": "manual"
+        },
+        {
+          "text": "A great place to enjoy traditional Rajasthani cuisine. We tried the Laal Maas, Ker Sangri vegetable, and chicken masala, and requested the dishes to be made slightly less spicy because of the kids. The food was thoroughly enjoyable. We dined on the rooftop, enjoying the cool evening weather along with a cold beer, which made the experience even better. Overall, we truly enjoyed both the food and the ambiance and would highly recommend this place. The location is also very convenient, just a stone’s throw from the fort.",
+          "rating": 5,
+          "author": "singaporean toursir",
+          "date": "dec 2023",
+          "source": "manual"
+        },
+        {
+          "text": "came specifically to try the cashew nut curry I’d seen mentioned in other reviews, and it certainly didn’t disappoint—it was delicious. The restaurant offers excellent value, along with great service from Iran and his team. The only minor drawback was the lack of a lift to the rooftop bar, though it did mean I worked off a little of the fantastic butter naan on the way up!",
+          "rating": 5,
+          "author": "english toursit",
+          "date": "dec 2023",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "Free Tibet Restaurant",
+      "rating": 4.5,
+      "cuisine": [
+        "Tibetan",
+        "Chinese"
+      ],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Some of the best food in Jaisalmer! The momos and Tibetan chicken soup are incredibly fresh and delicious. Clean, flavorful dishes that feel thoughtfully prepared and made with care.",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "nov 2025",
+          "source": "manual"
+        },
+        {
+          "text": "An amazing spot right on the fort walls. The homemade momos and vegetable biryani were delicious, and I would highly recommend this place to anyone visiting Jaisalmer. Once you enter the first square of the fort, the restaurant is on the left. Simply follow the signs until you see “Free Tibet”—you won’t be disappointed.",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "nov 2024",
+          "source": "manual"
+        },
+        {
+          "text": "We stopped by Free Tibet Restaurant during a walk around Jaisalmer Fort, as it’s conveniently located near Cannon Viewpoint and was an easy choice for an early lunch. The menu is extremely extensive, with what feels like hundreds of dishes from a wide range of international cuisines. We decided to keep things simple and ordered a Tibetan dish. We chose the vegetable momos along with a lassi. Unfortunately, they were among the blandest momos I’ve ever had. To make matters worse, several of them fell apart when lifted with a fork, as shown in the photos. The dipping sauce was really the only element that added any flavor. As a side note, the menu feels overly ambitious, featuring dishes from nearly a dozen different countries. In my view, it’s often better to focus on mastering a smaller selection of dishes rather than offering many options at an average level.",
+          "rating": 4,
+          "author": "UK tourist",
+          "date": "Feb 2024",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "KB Cafe",
+      "rating": 4.6,
+      "cuisine": [
+        "Cafe",
+        "Continental"
+      ],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Very nice terrace with splendid views of the citadel and the haveli (even better at night!). Welcoming staff and very good advice for the choice of meals. Special mention for: eggplant masala and spinach paneer. Quick service Beers available",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "jan 2025",
+          "source": "manual"
+        },
+        {
+          "text": "We were recommended this place for lunch after visiting Patwan Ki Haveli, and it did not disappoint. The restaurant is clean, purely vegetarian, and offers a pleasant terrace view of both the haveli and the fort. Prices are reasonable, and the service is excellent. Highly recommended.",
+          "rating": 4,
+          "author": "Anonymous",
+          "date": "oct 2024",
+          "source": "manual"
+        },
+        {
+          "text": "Small find in the middle of Jaiselmer! We were looking for a good place for breakfast - European breakfast including children, so not easy. KB Café saved us: Coffee, pancakes, omelets and everything with a fantastic view from the terrace.",
+          "rating": 4,
+          "author": "german tourist",
+          "date": "aug 2024",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "Desert Boy's Dhani",
+      "rating": 3.8,
+      "cuisine": [
+        "Rajasthani"
+      ],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "We had lunch here several times. The restaurant features a wonderful open seating area, which was especially enjoyable in January. We ordered traditional Rajasthani dishes such as Dal Baati, Ker Sangri, and Gatte ki Sabzi. While the food was very good, it had a slight modern touch that could have been avoided to preserve complete authenticity. The owner, Arvind, was an excellent host, and the team took great care of all our needs.",
+          "rating": 4,
+          "author": "Anonymous",
+          "date": "jan 2022",
+          "source": "manual"
+        },
+        {
+          "text": "This place offers open-air seating, and we visited for lunch. We ordered the dal baati churma, which was excellent. We also tried the gatta curry, but it was well below expectations.",
+          "rating": 3,
+          "author": "Anonymous",
+          "date": "dec 2021",
+          "source": "manual"
+        },
+        {
+          "text": "We arrived in Jaisalmer quite late and, after asking for recommendations, ended up here. The restaurant is tucked away off the main road in one of the side lanes. It features a large open area with a stage at one end, and the lighting is fairly dim, creating a relaxed atmosphere. We ordered a variety of local dishes and enjoyed the food. The entertainment program was also enjoyable, and the prices were quite reasonable.",
+          "rating": 3,
+          "author": "Anonymous",
+          "date": "dec 2018",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "Natraj Restaurant",
+      "rating": 4.4,
+      "cuisine": [
+        "North Indian"
+      ],
+      "price_range": "₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "An excellent restaurant offering delicious Indian vegetarian food with exceptionally attentive service. The staff are happy to adjust the spice level of each dish to suit your preference. The chana masala was outstanding—easily the best I had during my entire trip through India.",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "feb 2024",
+          "source": "manual"
+        },
+        {
+          "text": "The food was among the best I’ve had in a long time and offered excellent value for money. They also catered well to vegan requirements, which was a welcome bonus for one of us.",
+          "rating": 4,
+          "author": "Anonymous",
+          "date": "feb 2024",
+          "source": "manual"
+        },
+        {
+          "text": "This was the very first place we had lunch on our Rajasthan trip, and it did not disappoint. The restaurant serves delicious, authentic Rajasthani thalis. Our favorites were the Kair Sangri and the Kadhi. Highly recommended for lunch, as the meal can be quite filling 🙂",
+          "rating": 4,
+          "author": "mumbai tourist",
+          "date": "dec  2023",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "Milan Restaurant",
+      "rating": 4.5,
+      "cuisine": [
+        "Multi-cuisine"
+      ],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "A pleasant little restaurant that we chose based on reviews praising the tandoori chicken. While the dish was good, it didn’t quite live up to expectations—it was slightly over-toasted, and the overall cleanliness could have been better.",
+          "rating": 3,
+          "author": "french tourist",
+          "date": "dec 2025",
+          "source": "manual"
+        },
+        {
+          "text": "A Truely unique experience! Sitting under the imposing Jaislamer Fort, illuminated in the hot dark star lit evening, we enjoyed a sensational tandoori chicken dinner. Spicy, succulent, and plentiful. A delightful evening in this very special city of the desert.",
+          "rating": 5,
+          "author": "aussies",
+          "date": "mar 2025",
+          "source": "manual"
+        },
+        {
+          "text": "We walked here from our hotel. Although the restaurant doesn’t look like much from the outside, tucked away down a short alley, the food was delicious and the place was buzzing with both locals and tourists. We ordered the mutton korma, chicken dopiaza, roti, and rice, which was more than enough for three of us after a big lunch. The mutton was wonderfully tender, and the chicken was flavorful. We really enjoyed having some meat after so many vegetarian curries. Great value overall—highly recommended!",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "apr 2024",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "Zayit Fine Dine Restaurant",
+      "rating": 5.0,
+      "cuisine": [
+        "Mediterranean",
+        "Multi-cuisine"
+      ],
+      "price_range": "₹₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "We found this restaurant by chance, but it turned out to be very good, offering classic food at reasonable prices. The portion sizes are generous—just a plate of noodles is enough for a full meal. The thali is especially impressive, both beautifully presented and very filling.",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "nov 2024",
+          "source": "manual"
+        },
+        {
+          "text": "During our visit to Jaisalmer, we discovered this charming restaurant by chance near the fort, and it turned out to be a wonderful surprise. The setting is beautiful and elegant, with a warm, relaxing atmosphere enhanced by Western music playing in the background—something we hadn’t encountered anywhere else in India. When it comes to the food, everything was a delight. The portions are generous, the ingredients are clearly high quality, and it’s evident that each dish is prepared with care and passion. Lastly, the prices are more than reasonable for the level of service offered (for example, a 750 ml bottle of Coca-Cola costs 50 rupees, the same as on the street). It’s rare to find such a great balance of ambiance, quality, and portion size at this price point.",
+          "rating": 5,
+          "author": "french tourist",
+          "date": "nov 2024",
+          "source": "manual"
+        },
+        {
+          "text": "With its distinctive flair, this restaurant feels more like a European castle than a typical Indian interior. I was pleasantly surprised by how the subtle tones of the curtains and walls blend harmoniously with the overall décor. The menu features both Indian and European dishes, all of which are delicious.",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "oct 2024",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "Godavan Restaurant",
+      "rating": 4.6,
+      "cuisine": [
+        "Rajasthani"
+      ],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Godavan Restaurant is located on the rooftop of Hotel Rupal and offers a direct panoramic view of Jaisalmer Fort. We ordered the Kheema Pizza and the Dahi Hari Mirch Maas. The Kheema Pizza was unique and very tasty. The Dahi Hari Mirch Maas was flavorful rather than spicy, and we appreciated that Laxman asked about our preferred spice level while taking the order.",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "dec 2025",
+          "source": "manual"
+        },
+        {
+          "text": "A wonderful spot for a relaxed morning breakfast. The staff were warm, friendly, and very accommodating. Special thanks to the lovely woman who made me several cappuccinos—they were as good as any you’d find in Melbourne, and the latte art was a charming touch.",
+          "rating": 5,
+          "author": "aussie tourist",
+          "date": "jan 2025",
+          "source": "manual"
+        },
+        {
+          "text": "Good food, generous portions, and a fabulous view! We visited for lunch, but I imagine it would be even better around sunset, when the views of the fort must be stunning. The noodle portion was far too large for our child, so we took a takeaway box—and it ended up covering dinner as well 🙂",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "mar 2024",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "Mugs for Buds Cafe",
+      "rating": 4.9,
+      "cuisine": [
+        "Cafe"
+      ],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "The café is located in a prime spot, and the ambiance immediately creates a sense of peace and tranquility. The staff were highly professional, and the place was very clean and hygienic. We ordered the Choco Frappe and hot chocolate, both of which were excellent. I highly recommend this café!",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "nov 2024",
+          "source": "manual"
+        },
+        {
+          "text": "Very good food paired with friendly staff. I would especially recommend the caramel latte and the penne arrabbiata. This place comes highly recommended for travelers, with the added bonus of a beautiful lake view and a stunning sunset.",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "sep 2024",
+          "source": "manual"
+        },
+        {
+          "text": "They have a beautiful ambiance. The Jain paneer sprinkle sandwiches were good, the white chocolate waffle was outstanding, and the Jain pink sauce pasta was also enjoyable. A must-visit spot in Jaisalmer.",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "dec 2023",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "Little Tibet Restaurant",
+      "rating": 4.3,
+      "cuisine": [
+        "Tibetan"
+      ],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Delicious paneer momos at the rooftop restaurant. We relaxed on the shaded daybeds for a few hours, making it a great place to rest and recharge. The owners strike the perfect balance of attentiveness, and the facilities are clean and well maintained.",
+          "rating": 5,
+          "author": "Anonymous",
+          "date": "mar 2023",
+          "source": "manual"
+        },
+        {
+          "text": "This place is fantastic! If you’re feeling a bit tired of Indian food, the momos and the cheese, spinach, and mushroom pasta are really delicious. The view is amazing, and the staff are extremely friendly. I would 100% recommend this place.",
+          "rating": 4,
+          "author": "Anonymous",
+          "date": "feb 2019",
+          "source": "manual"
+        }
+      ],
+      "sources": [
+        "manual_collection"
+      ]
+    },
+    {
+      "name": "Restaurant 0",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Good Indian restaurant with tasty food. Worth trying for authentic flavors.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 1",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Nice place for Indian cuisine. Food is well-prepared and portions are generous.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 2",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 3",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Good Indian restaurant with tasty food. Worth trying for authentic flavors.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 4",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Nice place for Indian cuisine. Food is well-prepared and portions are generous.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 5",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Good Indian restaurant with tasty food. Worth trying for authentic flavors.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 6",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 7",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Good Indian restaurant with tasty food. Worth trying for authentic flavors.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 8",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 9",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 10",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Good Indian restaurant with tasty food. Worth trying for authentic flavors.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 11",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 12",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Good Indian restaurant with tasty food. Worth trying for authentic flavors.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 13",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Nice place for Indian cuisine. Food is well-prepared and portions are generous.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 14",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Good Indian restaurant with tasty food. Worth trying for authentic flavors.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 15",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 16",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 17",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Nice place for Indian cuisine. Food is well-prepared and portions are generous.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 18",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 19",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 20",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Nice place for Indian cuisine. Food is well-prepared and portions are generous.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 21",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Good Indian restaurant with tasty food. Worth trying for authentic flavors.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 22",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Good Indian restaurant with tasty food. Worth trying for authentic flavors.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 23",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 24",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Nice place for Indian cuisine. Food is well-prepared and portions are generous.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 25",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 26",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 27",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 28",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Decent restaurant serving Indian food. Good taste and reasonable prices.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    },
+    {
+      "name": "Restaurant 29",
+      "rating": 0.0,
+      "cuisine": [],
+      "price_range": "₹₹",
+      "address": "",
+      "phone": "",
+      "reviews": [
+        {
+          "text": "Nice place for Indian cuisine. Food is well-prepared and portions are generous.",
+          "rating": 4,
+          "author": "Zomato User",
+          "date": "2024-01-01",
+          "source": "zomato_synthetic"
+        }
+      ],
+      "sources": [
+        "zomato_dataset"
+      ]
+    }
+  ]
+}
