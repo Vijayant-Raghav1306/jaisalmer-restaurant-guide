@@ -7,6 +7,7 @@ chromadb==0.5.3
 sentence-transformers==3.0.1
 
 python-dotenv==0.21.1
+dotenv
 pandas==2.2.2
 
 beautifulsoup4==4.12.3

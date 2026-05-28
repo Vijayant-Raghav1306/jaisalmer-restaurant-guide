@@ -4,7 +4,7 @@ Combines retrieval and generation into a complete Q&A system
 """
 
 import os
-from dotenv.main import load_dotenv
+from dotenv import load_dotenv
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_groq import ChatGroq
