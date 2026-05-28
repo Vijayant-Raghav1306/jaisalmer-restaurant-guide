@@ -9,7 +9,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_groq import ChatGroq
 from langchain_community.vectorstores import Chroma
 from langchain_core.documents import Document
-from langchain_classic.chains import RetrievalQA
+from langchain.chains import RetrievalQA
 from langchain_core.prompts import PromptTemplate
 
 # Load environment
