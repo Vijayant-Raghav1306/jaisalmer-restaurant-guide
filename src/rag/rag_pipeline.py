@@ -2,7 +2,7 @@
 RAG Pipeline Core
 Combines retrieval and generation into a complete Q&A system
 """
-
+import streamlit as st
 import os
 from dotenv import load_dotenv
 from langchain_community.embeddings import HuggingFaceEmbeddings
@@ -11,7 +11,7 @@ from langchain_groq import ChatGroq
 from langchain.chains import RetrievalQA
 from langchain_core.prompts import PromptTemplate
 
-from pydantic import SecretStr
+from pydantic.v1 import SecretStr
 
 # Load environment
 load_dotenv()
@@ -78,31 +78,46 @@ class JaisalmerRAG:
         
         print("✅ Retriever ready")
     
+   
     def initialize_llm(self, model="llama-3.3-70b-versatile", temperature=0.3):
         """
         Initialize Groq LLM
-        
+
         Args:
             model: Groq model to use
             temperature: 0 = deterministic, 1 = creative
         """
         print(f"🤖 Initializing LLM ({model})...")
-        
+
+        # First try environment variable (.env for local)
         api_key = os.getenv("GROQ_API_KEY")
+
+        # If not found, try Streamlit secrets (for deployment)
         if not api_key:
-            raise ValueError("GROQ_API_KEY not found in .env file")
-        
+            try:
+                api_key = st.secrets["GROQ_API_KEY"]
+            except Exception:
+                api_key = None
+
+        if not api_key:
+            raise ValueError(
+                "GROQ_API_KEY not found. Add it to .env locally or Streamlit Secrets in deployment."
+            )
+
+        secret_api_key = SecretStr(api_key) if isinstance(api_key, str) else None
+
         self.llm = ChatGroq(
+            api_key=secret_api_key,
             model=model,
             temperature=temperature,
             max_tokens=1000
         )
-        
+
         print("✅ LLM ready")
-    
+
     def create_prompt_template(self):
         """Create the prompt template for RAG"""
-        
+
         template = """You are a helpful and knowledgeable restaurant guide for Jaisalmer, India. 
 You help tourists find the best places to eat based on authentic customer reviews.
 
@@ -131,13 +146,13 @@ Answer:"""
             template=template,
             input_variables=["context", "question"]
         )
-    
+
     def setup_qa_chain(self):
         """Create the complete RAG chain"""
         print("⛓️  Building RAG chain...")
-        
+
         prompt = self.create_prompt_template()
-        
+
         self.qa_chain = RetrievalQA.from_chain_type(
             llm=self.llm,
             chain_type="stuff",  # Stuff all retrieved docs into prompt
@@ -145,7 +160,7 @@ Answer:"""
             return_source_documents=True,  # Return sources for citation
             chain_type_kwargs={"prompt": prompt}
         )
-        
+
         print("✅ RAG chain ready")
     
     def initialize(self):
