@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_groq import ChatGroq
-from langchain_classic.chains import RetrievalQA
+from langchain.chains import RetrievalQA
 from langchain_core.prompts import PromptTemplate
 
 from pydantic import SecretStr
@@ -46,7 +46,7 @@ class JaisalmerRAG:
             embedding_function=self.embeddings,
             collection_name="jaisalmer_reviews"
         )
-        print(f"✅ Database loaded ({self.vectordb._collection.count()} documents)")
+        print("✅ Database loaded")
     
     def setup_retriever(self, k=5, search_type="mmr"):
         """
